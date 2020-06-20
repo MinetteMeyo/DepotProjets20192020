@@ -1,0 +1,14 @@
+MEMBRE DU GROUPE 3
+
+CHIEGANG SAPE BULCARD BRANDONE : 15B174FS
+DJAKAYE DIEUDONNE
+FADA MARC : 03H372FS
+NGONG MOGA EMMANUEL : 16B161FS
+DJOUGOUNAH YATON ARNAUD : 14A144FS
+DJIMTONE MOIMADNAN : 16B428FS
+FEUNKEU KUATE : 16B161FS 
+
+
+
+Pour notre projet DD est le dossier de simulation pour 2 machines: client, serveur 
+et DD2 est le dossier de simulation pour 150 machines
