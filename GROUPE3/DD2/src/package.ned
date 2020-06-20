@@ -1,3 +1,3 @@
-package test2;
+package DD2.src;
 
 @license(LGPL);
